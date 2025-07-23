@@ -22,7 +22,7 @@ I'm a PhD researcher in machine learning based in Edinburgh, UK. My work focuses
 
 ## 📌 Featured Projects
 
-Here are some selected works from my academic research:
+Here are some selected works from my personal and academic research:
 
 - **[Multimodal Visual Acuity Prediction](https://github.com/muanderson/VA_MM_DL)**  
   Combines OCT retinal imaging and clinical data using a custom deep neural network to predict post-treatment visual acuity. Validated on real-world NHS datasets with strong clinical performance.  
