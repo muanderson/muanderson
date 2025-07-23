@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Matthew Anderson
-
 I'm a PhD researcher in machine learning based in Edinburgh, UK. My work focuses on applying deep learning to real-world clinical problems using NHS imaging and patient data. I specialise in image analysis, multimodal learning, and low-data training strategies.
 
 - 🔬 Currently: Final-year PhD candidate at Newcastle University
