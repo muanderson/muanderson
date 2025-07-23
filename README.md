@@ -13,6 +13,13 @@ I'm a PhD researcher in machine learning based in Edinburgh, UK. My work focuses
 **Deep Learning:** CNNs, GANs, U-Net, Transformers, Transfer Learning, Multimodal Learning  
 **Domains:** Medical Image Analysis, Image Segmentation, Semi-supervised Learning, Statistical Analysis
 
+## 📚 Research Interests
+
+- Deep learning for healthcare and medical imaging
+- Low-data learning strategies (semi-supervised, self-labelling)
+- Multimodal learning and clinical decision support
+- Model interpretability and real-world evaluation
+
 ## 📌 Featured Projects
 
 Here are some selected works from my academic research:
@@ -33,11 +40,9 @@ Here are some selected works from my academic research:
   Foliage-penetrating radar recognition using synthetic augmentation and ROC-thresholding.  
   _Published in Remote Sensing_
 
-## 📊 GitHub Stats
-
-![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=muanderson&show_icons=true&theme=default&count_private=true)
-
 ## 📫 Get in Touch
+
+If you're working on problems at the intersection of machine learning and healthcare, or want to discuss ideas, feel free to connect.
 
 - **Email:** matthewjanderson222@gmail.com  
 - **LinkedIn:** [matthewanderson0](https://www.linkedin.com/in/matthewanderson0)  
