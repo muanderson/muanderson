@@ -20,7 +20,7 @@ I'm a PhD researcher in machine learning based in Edinburgh, UK. My work focuses
 
 ## 📌 Featured Projects
 
-Here are some selected works from my personal and academic research:
+Below are some selected works from my personal and academic research. My current focus is learning the full MLOps workflow and best practices.
 
 - **[Multimodal Visual Acuity Prediction](https://github.com/muanderson/VA_MM_DL)**  
   Combines OCT retinal imaging and clinical data using a custom deep neural network to predict post-treatment visual acuity. Validated on real-world NHS datasets with strong clinical performance.  
@@ -30,13 +30,13 @@ Here are some selected works from my personal and academic research:
   Self-supervised U-Net framework using just one annotated 2D slice to train 3D segmentation models. Demonstrated on diverse modalities (MRI, CT) with significant gains in label efficiency.  
   _Under review at BMC Medical Imaging_
 
+- **[End-to-End Digit Recogniser](https://github.com/muanderson/Handwritten-digit-recogniser)**  
+  End-to-End Digit Recognizer A complete MLOps pipeline for a handwritten digit recognizer, from initial training and fine-tuning to a live, deployed web application. Implements experiment tracking with MLflow, containerisation with Docker, and deployment to Hugging Face Spaces.
+  
 - **[Shopee Product Matching (Kaggle)](https://github.com/muanderson/shopee-product-matching)**  
   End-to-end solution for large-scale duplicate product detection using image and text features. Combines CNN and transformer models with approximate nearest neighbour search for scalable inference.  
   _Explores multimodal embeddings, deep feature extraction, and similarity search at scale_
 
-- **SAR Target Recognition with GANs and CNNs**  
-  Foliage-penetrating radar recognition using synthetic augmentation and ROC-thresholding.  
-  _Published in Remote Sensing_
 
 ## 📫 Get in Touch
 
