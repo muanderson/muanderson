@@ -1,24 +1,24 @@
 I'm a PhD researcher in machine learning based in Edinburgh, UK. My work focuses on applying deep learning to real-world clinical problems using NHS imaging and patient data. I specialise in image analysis, multimodal learning, and low-data training strategies.
 
-- 🔬 Currently: Final-year PhD candidate at Newcastle University
-- 🧠 Focus: Deep learning under data constraints (OCT imaging, diabetic macular oedema)
-- 🏥 Collaborations: NHS Sunderland Eye Infirmary, Roche
-- 📝 Publications: MIDL, Remote Sensing, Journal of Ophthalmology (see [Google Scholar](https://scholar.google.com/citations?user=3PXeB9wAAAAJ&hl=en))
+-  Currently: Final-year PhD candidate at Newcastle University
+-  Focus: Deep learning under data constraints (OCT imaging, diabetic macular oedema)
+-  Collaborations: NHS, Roche
+-  Publications: MIDL, Remote Sensing, Journal of Ophthalmology, Informatics in Medicine Unlocked (see [Google Scholar](https://scholar.google.com/citations?user=3PXeB9wAAAAJ&hl=en))
 
-## 🔧 Skills
+##  Skills
 
 **Languages & Tools:** Python, PyTorch, Git, NumPy, Scikit-learn  
 **Deep Learning:** CNNs, GANs, U-Net, Transformers, Transfer Learning, Multimodal Learning  
 **Domains:** Medical Image Analysis, Image Segmentation, Semi-supervised Learning, Statistical Analysis
 
-## 📚 Research Interests
+##  Research Interests
 
 - Deep learning for healthcare and medical imaging
 - Low-data learning strategies (semi-supervised, self-labelling)
 - Multimodal learning and clinical decision support
 - Model interpretability and real-world evaluation
 
-## 📌 Featured Projects
+##  Featured Projects
 
 Below are some selected works from my personal and academic research. My current focus is learning the full MLOps workflow and best practices.
 
